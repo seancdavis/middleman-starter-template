@@ -1,0 +1,24 @@
+
+// ------------------------------------- Vendor
+
+@import 'vendor/normalize';
+
+/*
+ * If using Compass:
+ */
+// @import 'compass';
+// @import 'compass/reset';
+
+/*
+ * If you want Bourbon mixins
+ */
+// @import 'bourbon/bourbon';
+
+/*
+ * Or the Bones framework:
+ */
+// @import 'bones/bones';
+
+// ------------------------------------- Partials
+
+@import 'partials/globals';

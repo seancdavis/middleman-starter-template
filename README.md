@@ -1,8 +1,7 @@
 Middleman Starter Template
 ==========
 
-This project adds Backbone.js, Sass, Compass, Rake, and Markdown (Redcarpet) on
-top of Middleman's default template.
+This project adds CoffeeScript, Backbone.js, Sass, Bourbon, and Bitters on top of Middleman's default template.
 
 Installation
 ----------
@@ -27,6 +26,4 @@ $ middleman init [project_name] --template=starter
 License
 ----------
 
-This project simply puts into place a few items on top of Middleman. This
-implementation operates under the MIT License, while you can find information
-on Middleman's license [here](https://github.com/middleman/middleman#license).
+This project simply puts into place a few items on top of Middleman. This implementation operates under the MIT License, while you can find information on Middleman's license [here](https://github.com/middleman/middleman#license).

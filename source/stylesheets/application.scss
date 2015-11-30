@@ -1,0 +1,20 @@
+
+// ------------------------------------- Vendor
+
+@import 'bourbon/bourbon';
+@import 'base/base';
+
+// If you wish to add your own vendor libraries/helpers, create a vendor
+// library, then import the base file:
+// @import 'vendor/_change_me';
+
+// ------------------------------------- Components
+
+// Components are reusable modules, like sliders, nav, etc.
+// @import 'components/_change_me';
+
+// ------------------------------------- Views
+
+// Views are styles specific to one particular page. They are usually targeted
+// by a body or container class.
+// @import 'views/_change_me';

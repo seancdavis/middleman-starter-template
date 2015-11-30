@@ -4,6 +4,9 @@ $heading-font-family: $base-font-family;
 
 // Font Sizes
 $base-font-size: 1em;
+$em-base: 16px;
+$modular-scale-ratio: $perfect-fourth;
+$modular-scale-base: rem($em-base);
 
 // Line height
 $base-line-height: 1.5;
